@@ -20,9 +20,9 @@
 
 	/* xAPI configuration */
 	// ActivityID that is sent for the statement's object
-	d.xAPICourseId = "";
+	d.xAPICourseId = "http://kZUbmPOS";
 	// Course name for the activity
-	d.xAPICourseName = {"en-US": ""};
+	d.xAPICourseName = {"en-US": "Untitled1"};
 	// Course description for the activity
 	d.xAPICourseDescription = {"en-US": ""};
 	// Pre-configured LRSes that should receive data, added to what is included
